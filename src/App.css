@@ -1,0 +1,42 @@
+*{
+  color: white;
+}
+
+.btn{
+  background: rgb(60, 233, 169);
+  padding: 4px 10px;
+  border-radius: 5px;
+}
+
+.btn2{
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 2px 8px;
+
+}
+
+.active{
+  color: white;
+}
+
+.custom-table {
+  border: 1px solid #000;
+}
+
+.custom-header {
+  background-color: lightgray;
+  text-align: left; /* Align header text to the left */
+}
+
+.custom-cell {
+  text-align: left; /* Align cell text to the left */
+}
+
+thead{
+  border: 1px solid gray;
+  text-align: center;
+}
+table{
+  margin: 2px auto;
+  text-align: center;
+}
